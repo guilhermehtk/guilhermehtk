@@ -135,6 +135,12 @@ I'm a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/S
 
 ---
 
+### 📚 Books :
+
+TBD
+
+---
+
 ### :chart_with_upwards_trend: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guilhermehtk&theme=dark&background=000000)](https://git.io/streak-stats)
