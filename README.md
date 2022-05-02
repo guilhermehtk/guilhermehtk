@@ -74,6 +74,9 @@ I'm a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/S
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" **alt="Digital Ocean" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" **alt="Goodle Cloud" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" title="GitHub Actions" **alt="GitHub Actions" width="40" height="40"/>&nbsp;
+    <img src="https://www.linode.com/wp-content/uploads/2021/02/Digital_Ocean_Logosm2.png" title="Digital Ocean" **alt="Digital Ocean" width="40" height="40"/>&nbsp;
+    <img src="https://www.vultr.com/favicon/android-chrome-512x512.png" title="Vultr" **alt="Vultr" width="40" height="40"/>&nbsp;
 </div>
 
 #### Others
@@ -89,15 +92,50 @@ I'm a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/S
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" **alt="ESLint" width="40" height="40"/>&nbsp;
+    <img src="https://sinonjs.org/assets/images/logo.png" title="Sinon" **alt="Sinon" width="40" height="40"/>&nbsp;
+    <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" title="Mocha" **alt="Mocha" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" title="Chai" **alt="Chai" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
     <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" title="Yarn" **alt="Yarn" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>&nbsp;
+    <img src="https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png" title="Scrum" **alt="Scrum" width="40" height="40"/>&nbsp;
+    <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" title="Cucumber/Gherkin" **alt="Cucumber/Gherkin" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
+    <img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### :fire: My Stats :
+### :eyes: Interests :
+
+#### Backend
+
+- Architectures
+- gRPC
+- Elixir/Phoenix
+
+#### Frontend
+
+- Dart/Flutter
+- NextJS/Remix
+- TailwindCSS
+- Svelte
+
+#### Crypto/Blockchain
+
+- Solidity
+
+#### IoT
+
+- Home Assistent
+- MQTT
+- Tuya
+- Shinobi
+
+---
+
+### :technologist: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guilhermehtk&theme=dark&background=000000)](https://git.io/streak-stats)
 
