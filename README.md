@@ -26,7 +26,7 @@ I'm a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/S
 
 ### :chart_with_upwards_trend: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=guilhermehtk&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=guilhermehtk&theme=dark)](https://git.io/streak-stats)
 
 ---
 
